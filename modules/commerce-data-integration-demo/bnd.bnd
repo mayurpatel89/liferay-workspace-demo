@@ -1,0 +1,4 @@
+Bundle-Name: commerce-demo-data-integration
+Bundle-SymbolicName: commerce.demo.data.integration
+Bundle-Version: 1.0.0
+Web-ContextPath: /commerce-demo-data-integration
